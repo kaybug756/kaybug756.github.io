@@ -31,6 +31,14 @@ $(function () {
 
 
     // TODO 2 - Create Platforms
+//createPlatform(xPos, yPos, Width, Height)
+createPlatform(200, 700, 100, 5, "red", 200, 300, 1)
+//createPlatform(xPos, yPos, Width, Height)
+createPlatform(400, 600, 100, 5, "yellow", 300, 400, 2)
+//createPlatform(xPos, yPos, Width, Height)
+createPlatform(200, 500, 100, 5, "blue", 400, 500, 1)
+//createPlatform(xPos, yPos, Width, Height)
+createPlatform(400, 400, 100, 5, "purple")
 
 
 
