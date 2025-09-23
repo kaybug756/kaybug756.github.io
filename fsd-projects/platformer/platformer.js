@@ -49,10 +49,10 @@ createPlatform(400, 400, 100, 5, "purple")
 
     
     // TODO 4 - Create Cannons
-
-
-    
-    
+createCannon("top",200,10000)
+createCannon("top",300,2000)
+    createCannon("top",400,3000)
+    createCannon("top",500,4000)
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
     //////////////////////////////////
